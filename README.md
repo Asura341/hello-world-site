@@ -1,2 +1,1 @@
-# hello-world-site
-Простой веб-сайт с приветствием
+git checkout -b feature/new_functionality
